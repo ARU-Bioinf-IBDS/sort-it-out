@@ -6,4 +6,4 @@ Bioinformatics introductory exercise adapted from that developed by
 
 * Azure Notebooks import: 
   [![Azure Notebooks](https://notebooks.azure.com/launch.png)
-  ](https://notebooks.azure.com/import/gh/ARU-Bioinformatics/sort-it-out/)
+  ](https://notebooks.azure.com/import/gh/ARU-Bioinf-IBDS/sort-it-out/)
